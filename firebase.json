@@ -1,0 +1,36 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "charmieapp-2346e",
+          "appId": "1:54999621429:android:19acbce14d2d0830d4b67c",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "charmieapp-2346e",
+          "configurations": {
+            "android": "1:54999621429:android:19acbce14d2d0830d4b67c",
+            "ios": "1:54999621429:ios:15a8acc9310e1c5cd4b67c",
+            "macos": "1:54999621429:ios:15a8acc9310e1c5cd4b67c",
+            "web": "1:54999621429:web:2d2b44a4887de31dd4b67c",
+            "windows": "1:54999621429:web:de2a121bad0e6fccd4b67c"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "source": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "frameworksBackend": {
+      "region": "asia-east1"
+    }
+  }
+}

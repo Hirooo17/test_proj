@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "54999621429",
+    "project_id": "charmieapp-2346e",
+    "storage_bucket": "charmieapp-2346e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54999621429:android:19acbce14d2d0830d4b67c",
+        "android_client_info": {
+          "package_name": "com.example.test_proj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuA1WXvybDXnm1sJa1mrgu-aXWbhI0GoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
